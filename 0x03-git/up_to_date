@@ -1,0 +1,5 @@
+git add .
+git commit -m 'your text'
+git push origin HEAD
+git branch
+git checkout name of the branch
